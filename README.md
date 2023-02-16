@@ -1,9 +1,10 @@
-## Project Portfolio
+# Project Portfolio
 
 
 
 
-BSc.
+### BSc. Projects
+---
 ### Project 1: Day Trading Strategy Analysis
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables in addition to Entry/Exit stock prices in order to get a better picture and support future desicions. Used necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
 
