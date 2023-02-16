@@ -16,9 +16,6 @@ The main notebook of the project, here we will conduct all of the pre processing
 
 Programming Language: Python
 
-% <img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-25%20051634.jpg" width="700" height="300">
-
-
 
 ### Project 2: Cardiovascular Diseases Analysis and Survivability Prediction
 
@@ -30,10 +27,6 @@ Analysis of a dataset of 299 patients with heart failure collected in 2015. Pred
 Programming Language: Python
 
 
-<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/Screenshot%202021-04-23%20015906.jpg" width="1000" height="300">
-
-
-
 ### Project 3: Assembler
 
 
@@ -43,5 +36,3 @@ A program for converting instructions written in low-level assembly code into re
 
 Programming Language: C
 
-
-<img src="https://raw.githubusercontent.com/zoxfog/Liran_Portfolio/master/images/image2.jpg" width="700" height="300">
