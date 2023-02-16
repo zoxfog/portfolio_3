@@ -12,7 +12,7 @@ More concretely, in this project, we are tasked with an image classification pro
 
 
 ### 2. Multitask LSTM - AE for Reconstruction and Forecasting/classifying. 
-
+key methods: Data reconstruction, LSTM, Auto-Encoder.
 #### [Report:](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
 #### [Code:](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
