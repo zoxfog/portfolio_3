@@ -1,7 +1,7 @@
 # Project Portfolio
 ### MSc. Projects
 ---
-### 1.Open Set Recognition 
+### 1. Open Set Recognition 
 
 
 key methods: Supervised and unsupervised learning, image classification, CNN.
@@ -9,6 +9,12 @@ key methods: Supervised and unsupervised learning, image classification, CNN.
 More concretely, in this project, we are tasked with an image classification problem on the MNIST dataset. However, our model should be able to not only correctly classify MNIST examples but also flag unseen classes during test-time as ’Unknown’. In this project we tackle this problem with multi-task CNN based AE + data augmentation for classification and GMM clustering for the latent space representation of the imgaes.
 
 #### [Notebook:](https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb)
+
+
+### 2. Multitask LSTM - AE for Reconstruction and Forecasting/classifying. 
+
+#### [Report:]([https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf))
+#### [Code:](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
 ### BSc. Projects
 ---
