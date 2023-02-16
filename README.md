@@ -5,7 +5,7 @@
 
 ### BSc. Projects
 ---
-### Day Trading Strategy Analysis (Workshop in Data Science) 
+### 1. Day Trading Strategy Analysis (Workshop in Data Science) 
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables in addition to Entry/Exit stock prices in order to get a better picture and support future desicions. Used necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
 
 
@@ -18,7 +18,7 @@ The main notebook of the project, here we will conduct all of the pre processing
 Programming Language: Python
 
 
-### Cardiovascular Diseases Analysis and Survivability Prediction (Data Mining) 
+### 2. Cardiovascular Diseases Analysis and Survivability Prediction (Data Mining) 
 
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediction and cluster analysis of patient survivability based on 13 attributes.
 
@@ -28,7 +28,7 @@ Analysis of a dataset of 299 patients with heart failure collected in 2015. Pred
 Programming Language: Python
 
 
-### Assembler (Lab in System Programming)
+### 3.  Assembler (Lab in System Programming)
 
 
 A program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
