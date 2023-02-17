@@ -13,8 +13,15 @@ More concretely, in this project, we are tasked with an image classification pro
 
 ### 2. Multitask LSTM - AE for Reconstruction and Forecasting/classifying. 
 key methods: Data reconstruction, LSTM, Auto-Encoder.
+- Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy given task (1).
+
 #### [Report:](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
-#### [Code:](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
+#### [code:](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
+
+### 2. Neural Network From Scratch. 
+In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
+
+### [Report + code:](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
 
 ### BSc. Projects
 ---
@@ -41,12 +48,4 @@ Analysis of a dataset of 299 patients with heart failure collected in 2015. Pred
 Programming Language: Python
 
 
-### 3.  Assembler (Lab in System Programming)
-
-
-A program for converting instructions written in low-level assembly code into relocatable machine code and generating along information for the loader.
-
-#### [Readme](https://github.com/zoxfog/Assembler-Project)
-
-Programming Language: C
 
