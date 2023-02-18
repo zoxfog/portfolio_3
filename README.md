@@ -1,9 +1,10 @@
 # Project Portfolio
 
-# Table of contents
+
+#### MSc.
 1. [Open Set Recognition](#OSR)
-
-
+2. [Multitask](#Multitask)
+#### BSc.
 
 ### MSc. Projects
 ---
@@ -14,10 +15,10 @@ key methods: Supervised and unsupervised learning, image classification, CNN.
 - This project focuses on the problem of Open Set Recognition (OSR). Unlike traditional classification problems, where a model is trained and tested on the same set of classes, OSR refers to a scenario where, in addition to the known classes the classifier was trained on, additional new classes might be present during test-time. In fact, this is closely related to the problem of out-of-distribution (OOD) detection.
 More concretely, in this project, we are tasked with an image classification problem on the MNIST dataset. However, our model should be able to not only correctly classify MNIST examples but also flag unseen classes during test-time as ’Unknown’. In this project we tackle this problem with multi-task CNN based AE + data augmentation for classification and GMM clustering for the latent space representation of the imgaes.
 
-#### [**Notebook](https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb)
+#### [**Notebook](https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb) 
 
 
-### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction. 
+### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction.  <a name="Multitask"></a>
 key methods: Data reconstruction, LSTM, Auto-Encoder.
 - Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy given task (1).
 
