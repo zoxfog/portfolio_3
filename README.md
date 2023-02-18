@@ -11,28 +11,24 @@ More concretely, in this project, we are tasked with an image classification pro
 #### [**Notebook](https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb)
 
 
-### 2. Multitask LSTM - AE for Reconstruction and Forecasting/classifying. 
+### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction. 
 key methods: Data reconstruction, LSTM, Auto-Encoder.
 - Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy given task (1).
 
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
-#### [**code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
+#### [**Code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
 ### 3. Neural Network From Scratch. 
-In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
+- In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
 
-#### [**Report + code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
+#### [**Report + Code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
 
 ### 4. DQN and Dueling DQN for Atari 2600.
 key methods: RL, DQN, CNN.
-This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability technique and more.
+- This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability technique and more.
 
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/Project%20Description.pdf)
-#### [**code](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/learn_new.py)
-
-
-### 5. Actor-Critic with RBF-kernel Approximation for Pendulum.
-key methods: RL, function approximation, policy approximation, actor-critic.
+#### [**Code](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/learn_new.py)
 
 
 ### BSc. Projects
