@@ -10,7 +10,8 @@
 
 ### MSc. Projects
 ---
-### 1. Open Set Recognition <a name="OSR"></a>
+<a name="OSR"></a>
+### 1. Open Set Recognition 
 
 
 key methods: Supervised and unsupervised learning, image classification, CNN.
@@ -19,8 +20,8 @@ More concretely, in this project, we are tasked with an image classification pro
 
 #### [**Notebook](https://github.com/zoxfog/OSR/blob/main/GMDL,_Project,.ipynb) 
 
-
-### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction.  <a name="Multitask"></a>
+<a name="Multitask"></a>
+### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction.
 key methods: Data reconstruction, LSTM, Auto-Encoder.
 - Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy given task (1).
 
