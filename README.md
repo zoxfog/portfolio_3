@@ -32,7 +32,7 @@ key methods: Data reconstruction, LSTM, Auto-Encoder.
 
 <a name="NN"></a>
 ### 3. Neural Network From Scratch.
-- In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
+- In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion.
 
 #### [**Report + Code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
 
