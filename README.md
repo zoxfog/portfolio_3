@@ -3,7 +3,9 @@
 
 #### MSc.
 1. [Open Set Recognition](#OSR)
-2. [Multitask](#Multitask)
+2. [Multitask LSTM - AE for Reconstruction and Classifying/Prediction](#Multitask)
+3. [Neural Network From Scratch](#NN)
+4. [DQN and Dueling DQN for Atari 2600](#DQN)
 #### BSc.
 
 ### MSc. Projects
@@ -25,12 +27,12 @@ key methods: Data reconstruction, LSTM, Auto-Encoder.
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
 #### [**Code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
-### 3. Neural Network From Scratch. 
+### 3. Neural Network From Scratch. <a name="NN"></a>
 - In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
 
 #### [**Report + Code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
 
-### 4. DQN and Dueling DQN for Atari 2600.
+### 4. DQN and Dueling DQN for Atari 2600. <a name="DQN"></a>
 key methods: RL, DQN, CNN.
 - This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability techniques and more.
 
