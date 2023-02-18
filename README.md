@@ -1,7 +1,13 @@
 # Project Portfolio
+
+# Table of contents
+1. [Open Set Recognition](#OSR)
+
+
+
 ### MSc. Projects
 ---
-### 1. Open Set Recognition 
+### 1. Open Set Recognition <a name="OSR"></a>
 
 
 key methods: Supervised and unsupervised learning, image classification, CNN.
@@ -25,7 +31,7 @@ key methods: Data reconstruction, LSTM, Auto-Encoder.
 
 ### 4. DQN and Dueling DQN for Atari 2600.
 key methods: RL, DQN, CNN.
-- This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability technique and more.
+- This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability techniques and more.
 
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/Project%20Description.pdf)
 #### [**Code](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/learn_new.py)
