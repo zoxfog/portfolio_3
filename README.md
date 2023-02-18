@@ -18,10 +18,18 @@ key methods: Data reconstruction, LSTM, Auto-Encoder.
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
 #### [**code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
-### 2. Neural Network From Scratch. 
+### 3. Neural Network From Scratch. 
 In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
 
 #### [**Report + code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
+
+### 4. DQN and Dueling DQN for Atari 2600.
+key methods: RL, DQN, CNN.
+
+
+### 5. Actor-Critic with RBF-kernel Approximation for Pendulum.
+key methods: RL, function approximation, policy approximation, actor-critic.
+
 
 ### BSc. Projects
 ---
