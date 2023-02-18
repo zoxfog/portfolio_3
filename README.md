@@ -25,7 +25,7 @@ More concretely, in this project, we are tasked with an image classification pro
 <a name="Multitask"></a>
 ### 2. Multitask LSTM - AE for Reconstruction and Classifying/Prediction.
 key methods: Data reconstruction, LSTM, Auto-Encoder.
-- Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy given task (1).
+- Multitask neural networks generally include a a network with different objectives, normally expressed with a multi-loss implementation. Here we implement an LSTM, with (1)  the classification/prediction task and (2) data reconstruction task. Our report shows, that even with 2 tasks, the model can achieve high accuracy for both metrics.
 
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
 #### [**Code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
