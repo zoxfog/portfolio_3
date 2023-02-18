@@ -7,6 +7,8 @@
 3. [Neural Network From Scratch](#NN)
 4. [DQN and Dueling DQN for Atari 2600](#DQN)
 #### BSc.
+1. [Day Trading Strategy Analysis (Workshop in Data Science)](#SA)
+2. [Cardiovascular Diseases Analysis and Survivability Prediction](#Cardiovascular)
 
 ### MSc. Projects
 ---
@@ -28,12 +30,14 @@ key methods: Data reconstruction, LSTM, Auto-Encoder.
 #### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/hw2-DL/HW%202%20-%20report.pdf)
 #### [**Code](https://github.com/zoxfog/MSc-projects/tree/main/hw2-DL)
 
-### 3. Neural Network From Scratch. <a name="NN"></a>
+<a name="NN"></a>
+### 3. Neural Network From Scratch.
 - In this project we implement a fully-connected and a residual neural network using Numpy alone. Thus, all gradients, their computation ,and SGD etc are implemented with numpy. note, this project was created before the introduction of ChatGPT. Therefore a strong mathemtical understanding of NN was required for its completion
 
 #### [**Report + Code](https://github.com/zoxfog/MSc-projects/blob/main/DL%20-hm1/Home%20Assignment%201%20(3).pdf)
 
-### 4. DQN and Dueling DQN for Atari 2600. <a name="DQN"></a>
+<a name="DQN"></a>
+### 4. DQN and Dueling DQN for Atari 2600.
 key methods: RL, DQN, CNN.
 - This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability techniques and more.
 
@@ -43,6 +47,7 @@ key methods: RL, DQN, CNN.
 
 ### BSc. Projects
 ---
+<a name="SA"></a>
 ### 1. Day Trading Strategy Analysis (Workshop in Data Science) 
 In depth analysis of my day trading strategy covering data from dozens of trades with real money. The data features many variables in addition to Entry/Exit stock prices in order to get a better picture and support future desicions. Used necessary data down to the 1-minute open, close, high, low and volume bars to retrieve better insight and accuracy.
 
@@ -55,7 +60,7 @@ The main notebook of the project, here we will conduct all of the pre processing
 
 Programming Language: Python
 
-
+<a name="Cardiovascular"></a>
 ### 2. Cardiovascular Diseases Analysis and Survivability Prediction (Data Mining) 
 
 Analysis of a dataset of 299 patients with heart failure collected in 2015. Prediction and cluster analysis of patient survivability based on 13 attributes.
