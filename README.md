@@ -25,6 +25,10 @@ In this project we implement a fully-connected and a residual neural network usi
 
 ### 4. DQN and Dueling DQN for Atari 2600.
 key methods: RL, DQN, CNN.
+This project includes the implementation of the Dueling DQN and Vanilla DQN as proposed by DeepMind research group. To achieve similar results as in the the papaers, we attempted to reproduce the code using similar mechanism as described  in the original papers such as network architecture, replay-buffer, stability technique and more.
+
+#### [**Report](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/Project%20Description.pdf)
+#### [**code](https://github.com/zoxfog/MSc-projects/blob/main/project%20RL/learn_new.py)
 
 
 ### 5. Actor-Critic with RBF-kernel Approximation for Pendulum.
